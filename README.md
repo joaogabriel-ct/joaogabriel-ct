@@ -9,11 +9,8 @@ Sobre Mim
 💼 Trabalhando como desenvolvedor na Referencia Holding
 🌱 Sempre aprendendo e buscando melhorar minhas habilidades
 Linguagens e Tecnologias
-Python
-Django
-Flask
-JavaScript (React, Next)
-HTML/CSS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel-ct)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Contato
 LinkedIn: https://www.linkedin.com/in/joaogabriel-ct/
